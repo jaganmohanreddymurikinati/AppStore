@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.app-heading {
+  font-weight: bold;
+  font-size: 35px;
+  font-family: 'Roboto';
+}
+.bg-container {
+  background-image: linear-gradient(to bottom, #ace0f9, #fff1eb);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+}
+.search-image {
+  width: 25px;
+  height: 25px;
+}
+.search-input {
+  width: 300px;
+  height: 30px;
+  border-radius: 10px;
+  outline: none;
+  padding: 20px;
+}
+
+.tablist-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+
+.app-items-container {
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 12px;
+  margin-bottom: 50px;
+}

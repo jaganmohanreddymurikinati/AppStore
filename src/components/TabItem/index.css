@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+.tab-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding: 0px;
+  cursor: pointer;
+  color: #7b8794;
+  margin: 10px;
+  align-self: center;
+}
+
+.active-btn {
+  border-bottom: 5px solid #2563eb;
+  color: #2563eb;
+}
+.kk {
+  color: red;
+}

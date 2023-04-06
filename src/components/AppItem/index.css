@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.app-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 5px;
+  /* shadow: 20px 10px 10px 10px; */
+}
+.app-image {
+  width: 100px;
+  height: 100px;
+}
